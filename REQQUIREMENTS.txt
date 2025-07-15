@@ -1,0 +1,8 @@
+Required Files
+
+Ensure these image files are in the same directory as your Python script:
+
+background.gif - Space background scene
+spaceman.gif - Stranded astronaut sprite
+rocket.gif - Player's rocket sprite
+Thankyou.gif - Victory/completion screen
